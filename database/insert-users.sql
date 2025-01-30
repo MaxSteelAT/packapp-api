@@ -1,0 +1,4 @@
+INSERT INTO packapp.users (name, email, password) VALUES
+('Juan Perez', 'juan@example.com', '$2a$10$E3Dg5Vz5q5y6Y7Z8X9A0B.1C2D3E4F5G6H7I8J9K0L1M2N3O4P5Q6R7S8T'),
+('Maria Lopez', 'maria@example.com', '$2a$10$E3Dg5Vz5q5y6Y7Z8X9A0B.1C2D3E4F5G6H7I8J9K0L1M2N3O4P5Q6R7S8T'),
+('Carlos Sanchez', 'carlos@example.com', '$2a$10$E3Dg5Vz5q5y6Y7Z8X9A0B.1C2D3E4F5G6H7I8J9K0L1M2N3O4P5Q6R7S8T');
